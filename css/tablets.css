@@ -1,0 +1,27 @@
+@media (max-width:970px) {
+    header {
+        padding-inline: 67px;
+        padding-bottom: 6px;
+    }
+}
+
+@media (max-width:888px) {
+    .section1_text {
+        padding: 115px 67px 116px;
+        width: 700px;
+    }
+}
+
+@media(max-width:836px) {
+    .section2_article_styles {
+        width: 340px;
+    }
+}
+
+
+
+@media (max-width:900px) {
+    .section2 {
+        padding: 80px 67px;
+    }
+}

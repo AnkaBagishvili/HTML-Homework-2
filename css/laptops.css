@@ -1,0 +1,23 @@
+@media (max-width:1100px) {
+    header {
+        padding-inline: 96px;
+        padding-bottom: 6px;
+    }
+}
+
+@media (max-width:1234px) {
+    .section1_text {
+        padding: 171px 92px 172px;
+        width: 840px;
+    }
+}
+
+@media (max-width:1090px) {
+    .section2 {
+        padding: 130px 92px;
+    }
+
+    .active {
+        display: none;
+    }
+}

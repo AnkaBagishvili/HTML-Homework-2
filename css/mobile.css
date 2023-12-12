@@ -1,0 +1,47 @@
+@media (max-width:700px) {
+    header {
+        padding-inline: 14px;
+        padding-bottom: 9px;
+    }
+
+    .header_ul {
+        display: none;
+    }
+
+    .burger {
+        display: unset;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 32px;
+        height: 32px;
+
+    }
+}
+
+@media (max-width:726px) {
+    .section1_text {
+        padding: 119px 14px 120px;
+        width: 347px;
+    }
+
+    .section1_title1 {
+        font-size: 32px;
+    }
+
+    .section2_title2 {
+        font-size: 14px;
+    }
+}
+
+@media(max-width:520px) {
+    .section2 {
+        padding: 48px 14px;
+    }
+
+    .section2_article {
+        flex-direction: column;
+        row-gap: 24px;
+    }
+
+}
